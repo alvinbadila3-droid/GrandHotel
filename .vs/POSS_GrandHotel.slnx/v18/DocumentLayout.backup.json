@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\checkinandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\checkinandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|c:\\users\\hp\\source\\repos\\poss_grandhotel\\poss_grandhotel\\receptionist_dasbord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\receptionist_dasbord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|c:\\users\\hp\\source\\repos\\poss_grandhotel\\poss_grandhotel\\guest.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\guest.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|c:\\users\\hp\\source\\repos\\poss_grandhotel\\poss_grandhotel\\receptionist_dasbord.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\receptionist_dasbord.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|c:\\users\\hp\\source\\repos\\poss_grandhotel\\poss_grandhotel\\checkinandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\checkinandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\extraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\extraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\extraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\extraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\receptionist_dasbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\receptionist_dasbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\poss_grandhotel\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58A51FBA-9CEA-4C90-9609-55415941E27F}|POSS_GrandHotel\\POSS_GrandHotel.csproj|solutionrelative:poss_grandhotel\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receptionist_Dasbord.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\Receptionist_Dasbord.Designer.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\Receptionist_Dasbord.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\Receptionist_Dasbord.Designer.cs",
+              "RelativeToolTip": "POSS_GrandHotel\\Receptionist_Dasbord.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T00:22:15.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckInAndOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\CheckInAndOut.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\CheckInAndOut.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\CheckInAndOut.cs [Design]",
+              "RelativeToolTip": "POSS_GrandHotel\\CheckInAndOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:47:48.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reservasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\reservasi.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\reservasi.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\reservasi.cs [Design]",
+              "RelativeToolTip": "POSS_GrandHotel\\reservasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:08:32.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "guest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\guest.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\guest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\guest.cs",
+              "RelativeToolTip": "POSS_GrandHotel\\guest.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAswK4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:12:05.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "guest.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\guest.resx",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\guest.resx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\guest.resx",
+              "RelativeToolTip": "POSS_GrandHotel\\guest.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-17T00:22:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Receptionist_Dasbord.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\Receptionist_Dasbord.resx",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\Receptionist_Dasbord.resx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\Receptionist_Dasbord.resx",
+              "RelativeToolTip": "POSS_GrandHotel\\Receptionist_Dasbord.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-17T00:22:15.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckInAndOut.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\CheckInAndOut.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\CheckInAndOut.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\CheckInAndOut.cs",
+              "RelativeToolTip": "POSS_GrandHotel\\CheckInAndOut.cs",
+              "ViewState": "AgIAALEEAAAAAAAAAAAowMMEAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:47:49.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "extraservice.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\extraservice.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\extraservice.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\extraservice.cs",
+              "RelativeToolTip": "POSS_GrandHotel\\extraservice.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAswA0BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:13:17.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "extraservice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\extraservice.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\extraservice.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\extraservice.cs [Design]",
+              "RelativeToolTip": "POSS_GrandHotel\\extraservice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:13:03.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Receptionist_Dasbord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\Receptionist_Dasbord.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\Receptionist_Dasbord.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\Receptionist_Dasbord.cs [Design]*",
+              "RelativeToolTip": "POSS_GrandHotel\\Receptionist_Dasbord.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:07:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "reservasi.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\reservasi.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\reservasi.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\reservasi.cs",
+              "RelativeToolTip": "POSS_GrandHotel\\reservasi.cs",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAkwIkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:55:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "guest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\guest.cs",
+              "RelativeDocumentMoniker": "POSS_GrandHotel\\guest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\POSS_GrandHotel\\POSS_GrandHotel\\guest.cs [Design]",
+              "RelativeToolTip": "POSS_GrandHotel\\guest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:09:31.813Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
